@@ -1,0 +1,6 @@
+.table__cell {
+    max-width: 135px;
+    min-width: 135px;
+    margin-top: 30px;
+    padding: 0;
+}

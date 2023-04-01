@@ -1,0 +1,9 @@
+.footer__link-list {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    min-width: 500px;
+}

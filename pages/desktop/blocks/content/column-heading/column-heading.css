@@ -1,0 +1,12 @@
+.column-heading {
+    max-width: 330px;
+    margin: 0 0 10px;
+    padding: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #E4E5EA;
+}
