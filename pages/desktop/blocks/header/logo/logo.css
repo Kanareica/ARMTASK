@@ -1,0 +1,8 @@
+.logo {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 140px;
+    min-width: 140px;
+}
