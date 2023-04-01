@@ -22,4 +22,14 @@
 @import url(../blocks/content/table/__cell-text/__cell-text.css);
 @import url(../blocks/content/button/button.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/flex-row/flex-row.css);
 @import url(../blocks/footer/__column-list/__column-list.css);
+@import url(../blocks/footer/__column/_content/_content_contacts.css);
+@import url(../blocks/footer/__link/__link.css);
+@import url(../blocks/footer/__link-list/__link-list.css);
+@import url(../blocks/footer/__link-list/_position/_position_left.css);
+@import url(../blocks/footer/__column-heading/__column-heading.css);
+@import url(../blocks/footer/__social-icon-list/__social-icon-list.css);
+@import url(../blocks/footer/__social-icon/__social-icon.css);
+@import url(../blocks/footer/bottom/__copyright/__copyright.css);
+@import url(../blocks/footer/bottom/__privacy-policy/__privacy-policy.css);

@@ -1,0 +1,15 @@
+.footer__column_content_contacts {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 250px;
+}
+
+.footer__column_content_contacts .footer__link {
+    margin-bottom: 20px;
+}
+
+.footer__column_content_contacts .footer__link:last-child {
+    margin-bottom: 0;
+}

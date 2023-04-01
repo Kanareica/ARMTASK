@@ -1,0 +1,12 @@
+.footer__column-heading {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 20px;
+    color: #656566;
+}
